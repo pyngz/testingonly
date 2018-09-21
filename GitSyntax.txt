@@ -5,7 +5,7 @@ $git add .
 $git rm --cached index.html
 $git status 		// check status of working tree
 $git commit 		// Commit changes in index
-$git commit
+$git commit -m 'comments here'
 
 
 $git show		// compare with last version
@@ -18,6 +18,7 @@ $git clone	// clone repository into a new directory
 $git config --global user.name 'Phing'
 $git config --global user.email 'aa@abc.com'
 
+$git log
+$git log <file>
 
-
- 
+$git branch mybranch
