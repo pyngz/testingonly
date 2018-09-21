@@ -30,3 +30,5 @@ $git remote add origin https://github.com/pyngz/testingonly.git
 $git push -u origin master		//push your work to your new repo
 $git push -f origin master		//push your work to your new repo, -f is force
 
+$git clone https://github.com/pyngz/testingonly.git
+
