@@ -2,3 +2,6 @@
 2. $git add <file>	// Add File(s) to Index
 3. $git status 		// check status of working tree
 4. $git commit 		// Commit changes in index
+
+
+5. $git show		// compare with last version
