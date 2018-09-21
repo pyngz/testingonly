@@ -1,7 +1,23 @@
-1. $git init 		// initialize local git repository
-2. $git add <file>	// Add File(s) to Index
-3. $git status 		// check status of working tree
-4. $git commit 		// Commit changes in index
+$git init 		// initialize local git repository
+$git add <file>	// Add File(s) to Index
+$git add *.html
+$git add .
+$git rm --cached index.html
+$git status 		// check status of working tree
+$git commit 		// Commit changes in index
+$git commit
 
 
-5. $git show		// compare with last version
+$git show		// compare with last version
+$git diff commit_id HEAD
+
+$git push	 // push to remote repository
+$git pull	// pull latest from remote repository
+$git clone	// clone repository into a new directory
+
+$git config --global user.name 'Phing'
+$git config --global user.email 'aa@abc.com'
+
+
+
+ 
