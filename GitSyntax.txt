@@ -22,3 +22,6 @@ $git log
 $git log <file>
 
 $git branch mybranch
+$git checkout mybranch
+$git checkout master
+
